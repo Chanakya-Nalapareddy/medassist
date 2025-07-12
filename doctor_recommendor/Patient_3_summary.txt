@@ -1,0 +1,20 @@
+**Medical History Summary for Patient_3:**  
+
+- **Age 12:** You were diagnosed with seasonal allergies (allergic rhinitis) with symptoms like sneezing, nasal congestion, and itchy eyes, especially in spring. Started on cetirizine (antihistamine) and Flonase (nasal spray). Allergic to egg-based products (causes hives).  
+
+- **Age 30:** Developed chronic sinusitis, with facial discomfort and nasal congestion. Continued allergic rhinitis. Treated with Veramyst (nasal spray), Medrol (steroid pack), and saline rinses. No surgeries.  
+
+- **Age 45:** Began experiencing heartburn and regurgitation (GERD), likely linked to sinusitis. Started omeprazole (acid reducer) and advised lifestyle changes (e.g., avoiding trigger foods).  
+
+- **Age 60:** New symptoms of shortness of breath and wheezing led to an asthma diagnosis, likely allergy-related. Started Flovent (inhaled steroid) and albuterol (rescue inhaler). Referred to a pulmonologist.  
+
+- **Age 75:** Diagnosed with hypertension (high blood pressure), added lisinopril. Asthma, GERD, and sinusitis remained stable. Advised to reduce sodium intake.  
+
+**Key Details:**  
+- **Diagnoses:** Allergic rhinitis, chronic sinusitis, GERD, asthma, hypertension.  
+- **Medications:** Cetirizine, Flonase/Veramyst, omeprazole, Flovent, albuterol, lisinopril.  
+- **Allergies:** Egg-based products (hives).  
+- **Surgeries:** None.  
+- **Lifestyle:** Nonsmoker, minimal alcohol, high-sodium diet (later advised to reduce).  
+
+**Recommended Specialist:** Pulmonologist (for asthma management)

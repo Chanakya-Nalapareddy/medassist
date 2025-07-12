@@ -1,0 +1,22 @@
+**Medical History Summary for Patient_1:**
+
+- **Age 10**: Diagnosed with asthma and seasonal allergies after experiencing wheezing and coughing, especially at night or around dust. Started using an albuterol inhaler (as needed) and Flovent (daily) to manage asthma, along with cetirizine for allergies. Allergic to penicillin (causes rash). No surgeries. Family history of heart disease and diabetes.  
+
+- **Age 20**: Struggled with obesity (BMI 36, 220 lbs), causing fatigue and knee pain. Asthma remained controlled with inhalers. Referred to a nutritionist for weight management and advised to exercise 150 minutes/week. No surgeries.  
+
+- **Age 30**: Obesity worsened (312 lbs), with difficulty performing daily activities due to weight. Explored gastric banding surgery after evaluations (mental health, pulmonary, and lab tests). Asthma and allergies stable. Smoked lightly (<3 cigarettes/day).  
+
+- **Age 45**: Underwent gastric bypass surgery 15 years prior, losing significant weight (from 312 to 200 lbs) but regained 20 lbs. Diagnosed with high cholesterol (familial + obesity-related). Started atorvastatin and continued asthma/allergy medications. Quit smoking.  
+
+- **Age 60**: Developed knee osteoarthritis (pain, stiffness) likely due to past obesity. Maintained weight at 210 lbs post-surgery. Managed with naproxen, physical therapy, and ongoing medications for asthma, allergies, and cholesterol. Fully quit smoking 5 years prior.  
+
+**Key Ongoing Issues**:  
+- Asthma (controlled with Flovent/albuterol).  
+- Seasonal allergies (cetirizine).  
+- Obesity (status post gastric bypass).  
+- High cholesterol (atorvastatin).  
+- Knee osteoarthritis (managed with therapy/meds).  
+
+**Allergies**: Penicillin (rash).  
+
+**Recommended Specialist**: **Rheumatologist** (for osteoarthritis management).

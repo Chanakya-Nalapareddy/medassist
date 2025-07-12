@@ -1,0 +1,25 @@
+**Patient_1 Medical History Summary**  
+
+**Early Life to Adolescence:**  
+Patient_1 developed childhood-onset asthma and seasonal allergies, managed with **albuterol** (rescue inhaler) and **cetirizine** (antihistamine). Physical exams noted recurrent wheezing and nasal mucosal erythema.  
+
+**Adulthood (20s–30s):**  
+Obesity emerged (current BMI 36), contributing to GERD treated with **omeprazole**. At age 34, underwent **laparoscopic gastric bypass** for weight management. Postoperatively, hyperlipidemia was diagnosed (LDL 150 mg/dL), managed with **atorvastatin**. Bilateral knee osteoarthritis developed, characterized by swelling, medial joint line tenderness, and functional limitations; symptoms managed with **ibuprofen** and **naproxen**.  
+
+**Social/Family History:**  
+Nonsmoker (quit 5 years prior), minimal alcohol use (~10 drinks/year), single, unemployed. Family history significant for cardiovascular disease (paternal and maternal grandparents), type 2 diabetes, and maternal grandmother with stroke.  
+
+**Current Health (40s):**  
+- **Respiratory:** Persistent diffuse wheezing bilaterally; **Flovent 44 mcg** (inhaled corticosteroid) added to regimen.  
+- **Metabolic:** Elevated LDL (150 mg/dL) despite statin therapy; low-cholesterol diet and repeat lipid/glucose monitoring advised.  
+- **Musculoskeletal:** Knee X-rays pending; physical therapy and NSAIDs prescribed for osteoarthritis.  
+
+**Active Management:**  
+- **Asthma/Allergies:** Continue **albuterol**, **Flovent**, and **cetirizine**; reinforce trigger avoidance.  
+- **Weight/Metabolic:** Registered dietitian referral, 150 minutes/week aerobic activity, and BMI tracking.  
+- **Cardiovascular:** Optimize **atorvastatin** adherence and dietary modifications.  
+- **Knee OA:** **Naproxen**, PT for strength training, and activity modification.  
+
+**Allergies:** Penicillin (rash).  
+
+Patient_1’s history underscores multifactorial chronic disease management, with emphasis on metabolic, respiratory, and musculoskeletal health. Family history and lifestyle factors warrant vigilant preventive care.

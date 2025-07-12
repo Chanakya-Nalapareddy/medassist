@@ -1,0 +1,29 @@
+Patient_4 Medical History Summary  
+
+**Early Childhood**: Diagnosed with Kawasaki disease, treated with aspirin. Currently resolving with ongoing cardiology follow-up; echocardiogram scheduled in 4–6 weeks.  
+
+**Adolescence**: Developed poorly controlled asthma, managed with albuterol as needed. Physical exam consistently noted bilateral mild wheezing.  
+
+**Adulthood**:  
+- Underwent surgical extraction of completely bony impacted teeth #1, 16, 17, and 32 (including wisdom teeth) in late adolescence/adulthood.  
+- Asthma management escalated to Flovent 44 mcg 2 puffs BID and cetirizine 10 mg daily for suspected allergic component, though control remained suboptimal.  
+
+**Recent Hospitalization (Community-Acquired Pneumonia)**:  
+- Presented with right lower lobe crackles. Treated with ceftriaxone 1 g IV daily and azithromycin 500 mg PO daily. Chest X-ray performed (results not detailed); asthma remained stable during admission. Discharged with plans for pulmonology follow-up.  
+
+**Current Medications**:  
+- Chronic: Aspirin (Kawasaki disease), Flovent, cetirizine, albuterol, Prevacid (indication unspecified).  
+- Acute: Ceftriaxone and azithromycin (completed).  
+
+**Allergies**: No known drug or environmental allergies.  
+
+**Social History**: Retired IT consultant, married, nonsmoker, minimal alcohol use.  
+
+**Family History**: None documented.  
+
+**Follow-Up**:  
+- Primary care visit in 2–3 days.  
+- Avoid live virus vaccines for 11 months per Kawasaki disease protocol.  
+- Ongoing coordination with cardiology (echocardiogram pending) and pulmonology for long-term management.  
+
+**Summary**: A patient with a history of Kawasaki disease requiring cardiac monitoring, chronic asthma on step-up therapy, and recent pneumonia hospitalization. Multidisciplinary care focuses on optimizing respiratory and cardiovascular health.

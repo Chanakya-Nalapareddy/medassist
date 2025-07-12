@@ -1,0 +1,20 @@
+**Medical History Summary for Patient_4**  
+
+**Age 5**: You were diagnosed with Kawasaki disease, a condition causing fever, rash, and swelling. You received treatment with aspirin and IVIG (a special IV medication), and your symptoms resolved. A heart scan (echocardiogram) was normal. You were advised to avoid live vaccines for 11 months.  
+
+**Age 15**: You developed asthma, with wheezing triggered by pollen. You were prescribed an albuterol inhaler for emergencies and Flovent (a daily inhaler) to control symptoms. Allergy medication (cetirizine) was also added.  
+
+**Age 30**: You had surgery to remove four impacted wisdom teeth under general anesthesia. Your asthma was stable, and you were taking Flovent and albuterol as needed.  
+
+**Age 45**: You were hospitalized with pneumonia (a lung infection) and treated with antibiotics. Your asthma was stable during this time. A follow-up with a lung specialist (pulmonologist) was recommended.  
+
+**Age 65**: A recent heart scan showed normal heart function with no issues related to your childhood Kawasaki disease. Your asthma remains managed with Flovent and albuterol.  
+
+**Key Points**:  
+- **Diagnoses**: Resolved Kawasaki disease, asthma, pneumonia (once), impacted wisdom teeth.  
+- **Medications**: Flovent (daily inhaler), albuterol (emergency inhaler), cetirizine (allergy pill).  
+- **Surgeries**: Wisdom teeth removal at age 30.  
+- **Allergies**: None reported.  
+- **Lifestyle**: Nonsmoker, minimal alcohol, worked in IT.  
+
+**Recommended Specialist**: Pulmonologist (for asthma management and any future lung concerns).

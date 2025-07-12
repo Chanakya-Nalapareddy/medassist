@@ -1,0 +1,33 @@
+**Patient Overview**  
+Patient Patient_5 is a N/A-year-old with lifestyle history as follows: Smoking: N/A. Alcohol: N/A.
+
+**Medical Conditions**
+None reported.
+
+**Surgeries & Procedures**
+No surgical history reported.
+
+**Medications & Allergies**  
+Medications:
+None reported.  
+Allergies: None reported.
+
+**Social & Family History**  
+Social: "Not provided."  
+Family: Not provided.
+
+**Key Assessments & Diagnostics**
+No assessments noted.
+
+**Management & Follow-up Plans**
+No current follow-up plans noted.
+
+Structured Data for Reference:
+- Conditions: Adolescent idiopathic scoliosis, mild, Hypothyroidism, primary, Scoliosis, stable, Hypertension, primary, Osteoporosis with fragility fracture
+- Medications: {'Name': 'Levothyroxine', 'Dosage': '50 mcg daily', 'Age': 30}, {'Name': 'Levothyroxine', 'Dosage': '75 mcg daily', 'Age': 45}, {'Name': 'Amlodipine', 'Dosage': '5 mg daily', 'Age': 45}, {'Name': 'Alendronate', 'Dosage': '70 mg weekly', 'Age': 60}, {'Name': 'Calcium', 'Dosage': '1200 mg daily', 'Age': 60}, {'Name': 'Vitamin D', 'Dosage': '1000 IU daily', 'Age': 60}
+- Surgeries: None
+- Allergies: None
+- Social History: [{"Age": 15, "MaritalStatus": "Lives with parents", "Smoking": "No smoking exposure", "Alcohol": null, "Occupation": "High school student"}, {"Age": 30, "MaritalStatus": "Single", "Smoking": "Nonsmoker", "Alcohol": "Occasional alcohol (2\u20133 drinks/month)", "Occupation": null}, {"Age": 45, "MaritalStatus": "Married", "Smoking": "Nonsmoker", "Alcohol": "Occasional alcohol (2\u20133 drinks/month)", "Occupation": "Office manager"}, {"Age": 60, "MaritalStatus": "Widowed", "Smoking": "Nonsmoker", "Alcohol": "Occasional alcohol (2\u20133 drinks/month)", "Occupation": "Retired"}, {"Age": 80, "MaritalStatus": "Widowed", "Smoking": "Nonsmoker", "Alcohol": "Occasional alcohol (2\u20133 drinks/month)", "Occupation": "Retired"}]
+- Family History: [{'Condition': 'Osteoporosis', 'Relation': 'Mother'}]
+- Key Assessments: {'Age': 15, 'Findings': 'Mild right thoracic scoliosis on forward bend test, 15-degree Cobb angle on X-ray. No leg length discrepancy. Normal strength, sensation, reflexes.'}, {'Age': 30, 'Findings': 'TSH 6.5 mIU/L, free T4 0.8 ng/dL. Dry skin, no hair loss. No thyromegaly.'}, {'Age': 45, 'Findings': 'Elevated blood pressure readings (average 150/90 mmHg).'}, {'Age': 60, 'Findings': 'DEXA scan shows T-score of -2.6 at lumbar spine, -2.5 at femoral neck. Right wrist in cast.'}, {'Age': 80, 'Findings': 'Normal LV systolic function. Ejection fraction estimated around 60%. Trace mitral regurgitation. Trace tricuspid regurgitation.'}
+- Key Plans: {'Age': 15, 'Plan': 'Order spinal X-ray to monitor progression. Refer to physical therapy for core strengthening. Follow up in 6 months with repeat X-ray. Consider bracing if Cobb angle progresses beyond 20 degrees.'}, {'Age': 30, 'Plan': 'Start levothyroxine 50 mcg daily. Repeat TSH and free T4 in 6 weeks. Counsel on medication adherence. Follow up in 2 months.'}, {'Age': 45, 'Plan': 'Start amlodipine 5 mg daily. Counsel on low-sodium diet and exercise. Repeat CMP in 2 weeks. Follow up in 4 weeks to check blood pressure.'}, {'Age': 60, 'Plan': 'Start alendronate 70 mg weekly. Add calcium 1200 mg and vitamin D 1000 IU daily. Refer to physical therapy for fall prevention. Follow up in 3 months.'}, {'Age': 80, 'Plan': None}

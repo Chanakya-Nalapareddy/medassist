@@ -1,0 +1,27 @@
+**Medical History Summary: Patient_5**  
+
+Patient_5 is a postmenopausal female with a history of adolescent idiopathic scoliosis, hypothyroidism, hypertension, and osteoporosis.  
+
+**Adolescent Idiopathic Scoliosis**: Diagnosed in adolescence (15-degree right thoracic Cobb angle). Managed with biannual spinal X-rays, physical therapy for core strengthening, and potential bracing if curvature exceeds 20 degrees.  
+
+**Hypothyroidism**: Diagnosed via elevated TSH (6.5 mIU/L) and low free T4 (0.8 ng/dL). Initiated on levothyroxine 50 mcg daily; repeat thyroid function tests in 6 weeks.  
+
+**Hypertension**: Persistent blood pressure elevations (up to 150/90 mmHg) managed with amlodipine 5 mg daily, low-sodium diet, and exercise. Comprehensive metabolic panel (CMP) to be repeated in 2 weeks.  
+
+**Osteoporosis**: Postmenopausal diagnosis (lumbar spine T-score -2.6, femoral neck -2.5) with family history of maternal osteoporosis. Sustained a right distal radius fracture following a low-impact fall. Current treatment includes alendronate 70 mg weekly, calcium 1200 mg/day, vitamin D 1000 IU/day, and physical therapy for fall prevention.  
+
+**Additional Findings**: Incidental trace mitral and tricuspid regurgitation on imaging; no intervention required.  
+
+**Social History**: Nonsmoker, occasional alcohol (2–3 drinks/month), widowed, retired.  
+
+**Family History**: Mother with osteoporosis; no other significant familial conditions.  
+
+**Allergies/Surgeries**: No known drug allergies. No surgical history.  
+
+**Follow-Up Plan**:  
+- **2 weeks**: Repeat CMP.  
+- **6 weeks**: Repeat TSH and free T4.  
+- **3 months**: Osteoporosis and fall risk reassessment.  
+- **6 months**: Spinal X-ray and scoliosis evaluation.  
+
+**Clinical Focus**: Prioritize monitoring scoliosis progression, optimizing thyroid and blood pressure control, and mitigating fracture risk through pharmacotherapy, lifestyle modifications, and fall prevention strategies.
